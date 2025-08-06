@@ -1,0 +1,326 @@
+{
+  "search_query": "Larsen & Toubro",
+  "companies": [
+    {
+      "id": 5212631,
+      "dataType": "company",
+      "name": "Larsen & Toubro Limited",
+      "owner": {
+        "id": 1975800,
+        "email": "s.subburaj@ema-partners.com",
+        "firstName": "SUBBURAJ",
+        "lastName": "S",
+        "fullName": "SUBBURAJ S",
+        "phone": "+91 9500003750",
+        "location": "Chennai",
+        "profilePicture": null,
+        "relationships": {
+          "officeGroups": [],
+          "regions": []
+        }
+      },
+      "label": "client",
+      "aliases": [],
+      "division": null,
+      "description": null,
+      "industries": [],
+      "links": {
+        "website": null,
+        "linkedin": null,
+        "general": []
+      },
+      "address": null,
+      "specialities": null,
+      "size": null,
+      "image": {
+        "url": "",
+        "color": null
+      },
+      "phone": null,
+      "email": null,
+      "createdAt": "2025-02-28T05:49:09.000000Z",
+      "updatedAt": "2025-03-12T09:14:44.000000Z",
+      "api_version": "/companies"
+    },
+    {
+      "id": 5212631,
+      "dataType": "company",
+      "name": "Larsen & Toubro Limited",
+      "owner": {
+        "id": 1975800,
+        "email": "s.subburaj@ema-partners.com",
+        "firstName": "SUBBURAJ",
+        "lastName": "S",
+        "fullName": "SUBBURAJ S",
+        "phone": "+91 9500003750",
+        "location": "Chennai",
+        "profilePicture": null,
+        "relationships": {
+          "officeGroups": [],
+          "regions": []
+        }
+      },
+      "label": "client",
+      "aliases": [],
+      "division": null,
+      "description": null,
+      "industries": [],
+      "links": {
+        "website": null,
+        "linkedin": null,
+        "general": []
+      },
+      "addresses": [],
+      "specialities": null,
+      "size": null,
+      "image": {
+        "url": "",
+        "color": null
+      },
+      "phone": null,
+      "email": null,
+      "createdAt": "2025-02-28T05:49:09.000000Z",
+      "updatedAt": "2025-03-12T09:14:44.000000Z",
+      "api_version": "/v2/companies"
+    },
+    {
+      "id": 5212631,
+      "dataType": "company",
+      "name": "Larsen & Toubro Limited",
+      "owner": {
+        "id": 1975800,
+        "email": "s.subburaj@ema-partners.com",
+        "firstName": "SUBBURAJ",
+        "lastName": "S",
+        "fullName": "SUBBURAJ S",
+        "phone": "+91 9500003750",
+        "location": "Chennai",
+        "profilePicture": null,
+        "relationships": {
+          "officeGroups": [],
+          "regions": []
+        }
+      },
+      "label": "client",
+      "aliases": [],
+      "division": null,
+      "description": null,
+      "industries": [],
+      "links": {
+        "website": null,
+        "linkedin": null,
+        "general": []
+      },
+      "addresses": [],
+      "specialities": null,
+      "size": null,
+      "image": {
+        "url": "",
+        "color": null
+      },
+      "phone": null,
+      "email": null,
+      "createdAt": "2025-02-28T05:49:09.000000Z",
+      "updatedAt": "2025-03-12T09:14:44.000000Z",
+      "api_version": "/v3/companies"
+    }
+  ],
+  "projects": [
+    {
+      "id": 612593,
+      "dataType": "opportunity",
+      "name": "Head-EDRC, Solar",
+      "description": "Postion reporting to Head-EDRC, PT&D and Solar. BAsed at Riyadh, KSA",
+      "projectId": "",
+      "startDate": null,
+      "endDate": null,
+      "relationships": {
+        "company": {
+          "id": 5212631,
+          "name": "Larsen & Toubro Limited",
+          "image": {
+            "url": "",
+            "color": null
+          },
+          "createdAt": "2025-02-28T05:49:09.000000Z",
+          "updatedAt": "2025-03-12T09:14:44.000000Z"
+        }
+      },
+      "owner": {
+        "id": 1975800,
+        "email": "s.subburaj@ema-partners.com",
+        "firstName": "SUBBURAJ",
+        "lastName": "S",
+        "fullName": "SUBBURAJ S",
+        "phone": "+91 9500003750",
+        "location": "Chennai",
+        "profilePicture": null,
+        "relationships": {
+          "officeGroups": [],
+          "regions": []
+        }
+      },
+      "industries": [
+        {
+          "id": 1696492,
+          "name": "Construction"
+        },
+        {
+          "id": 1696910,
+          "name": "Renewables & Environment"
+        },
+        {
+          "id": 1696504,
+          "name": "Energy & Utilities"
+        },
+        {
+          "id": 1696633,
+          "name": "Energy"
+        }
+      ],
+      "createdAt": "2025-02-28T05:49:09.000000Z",
+      "updatedAt": "2025-03-12T09:14:44.000000Z",
+      "manager": {
+        "status": {
+          "id": 117611,
+          "text": "On Target",
+          "color": "#019687",
+          "default": true,
+          "order": 0,
+          "type": "project",
+          "hidden": false,
+          "nalText": null,
+          "canDelete": true,
+          "taggedCount": 0,
+          "hashId": "wpy3M",
+          "addedAt": "2025-02-28T05:49:09.000000Z"
+        }
+      },
+      "found_in": "/projects"
+    },
+    {
+      "id": 612593,
+      "dataType": "opportunity",
+      "name": "Head-EDRC, Solar",
+      "description": "Postion reporting to Head-EDRC, PT&D and Solar. BAsed at Riyadh, KSA",
+      "projectId": "",
+      "startDate": null,
+      "endDate": null,
+      "relationships": {
+        "company": {
+          "id": 5212631,
+          "name": "Larsen & Toubro Limited",
+          "image": {
+            "url": "",
+            "color": null
+          },
+          "createdAt": "2025-02-28T05:49:09.000000Z",
+          "updatedAt": "2025-03-12T09:14:44.000000Z"
+        },
+        "client": {
+          "id": 5212631,
+          "name": "Larsen & Toubro Limited",
+          "image": {
+            "url": "",
+            "color": null
+          },
+          "createdAt": "2025-02-28T05:49:09.000000Z",
+          "updatedAt": "2025-03-12T09:14:44.000000Z"
+        }
+      },
+      "owner": {
+        "id": 1975800,
+        "email": "s.subburaj@ema-partners.com",
+        "firstName": "SUBBURAJ",
+        "lastName": "S",
+        "fullName": "SUBBURAJ S",
+        "phone": "+91 9500003750",
+        "location": "Chennai",
+        "profilePicture": null,
+        "relationships": {
+          "officeGroups": [],
+          "regions": []
+        }
+      },
+      "industries": [
+        {
+          "id": 1696492,
+          "name": "Construction"
+        },
+        {
+          "id": 1696910,
+          "name": "Renewables & Environment"
+        },
+        {
+          "id": 1696504,
+          "name": "Energy & Utilities"
+        },
+        {
+          "id": 1696633,
+          "name": "Energy"
+        }
+      ],
+      "portal": null,
+      "createdAt": "2025-02-28T05:49:09.000000Z",
+      "updatedAt": "2025-03-12T09:14:44.000000Z",
+      "manager": {
+        "status": {
+          "id": 117611,
+          "text": "On Target",
+          "color": "#019687",
+          "default": true,
+          "order": 0,
+          "type": "project",
+          "hidden": false,
+          "nalText": null,
+          "canDelete": true,
+          "taggedCount": 0,
+          "hashId": "wpy3M",
+          "addedAt": "2025-02-28T05:49:09.000000Z"
+        }
+      },
+      "meta": {
+        "watching": false,
+        "following": false,
+        "pinned": false,
+        "archived": false,
+        "portalCreatedAt": null,
+        "candidateStats": {
+          "pipelineTags": {
+            "order": [],
+            "recent": []
+          },
+          "visibleCount": 0,
+          "unfiltered_visible_count": 0
+        },
+        "bucketStats": {
+          "tags": [],
+          "onTarget": 0,
+          "overdue": 0
+        }
+      },
+      "found_in": "/v3/projects"
+    }
+  ],
+  "people": [],
+  "lists": [],
+  "relationships": [],
+  "candidates": [],
+  "invoices": [],
+  "notes": [],
+  "tasks": [],
+  "meetings": [],
+  "summary": {
+    "total_companies": 3,
+    "total_projects": 2,
+    "total_people": 0,
+    "total_lists": 0,
+    "total_relationships": 0,
+    "total_candidates": 0,
+    "total_invoices": 0,
+    "total_notes": 0,
+    "total_tasks": 0,
+    "total_meetings": 0,
+    "total_records": 5
+  }
+}

@@ -1,0 +1,1225 @@
+{
+  "search_query": "Schneider Electric",
+  "companies": [
+    {
+      "id": 5370081,
+      "dataType": "company",
+      "name": "Schneider Electric",
+      "owner": {
+        "id": 1979614,
+        "email": "p.suchali@ema-partners.com",
+        "firstName": "Suchali",
+        "lastName": "Pal",
+        "fullName": "Suchali Pal",
+        "phone": null,
+        "location": null,
+        "profilePicture": null,
+        "relationships": {
+          "officeGroups": [],
+          "regions": []
+        }
+      },
+      "label": "client",
+      "aliases": [],
+      "division": null,
+      "description": null,
+      "industries": [],
+      "links": {
+        "website": {
+          "id": 16762895,
+          "url": "https://www.se.com/in/en/",
+          "title": null,
+          "type": "website",
+          "createdAt": "2025-07-17T10:21:41.000000Z",
+          "updatedAt": "2025-07-17T10:21:41.000000Z"
+        },
+        "linkedin": null,
+        "general": []
+      },
+      "addresses": [],
+      "specialities": null,
+      "size": null,
+      "image": {
+        "url": "",
+        "color": null
+      },
+      "phone": null,
+      "email": null,
+      "createdAt": "2025-04-07T06:33:31.000000Z",
+      "updatedAt": "2025-07-17T10:21:42.000000Z",
+      "api_version": "/v3/companies"
+    }
+  ],
+  "projects": [
+    {
+      "id": 640759,
+      "dataType": "assignment",
+      "name": "Confidential Search",
+      "description": null,
+      "projectId": null,
+      "startDate": "2025-04-07",
+      "endDate": null,
+      "relationships": {
+        "company": {
+          "id": 5370081,
+          "name": "Schneider Electric",
+          "image": {
+            "url": "",
+            "color": null
+          },
+          "createdAt": "2025-04-07T06:33:31.000000Z",
+          "updatedAt": "2025-07-17T10:21:42.000000Z"
+        },
+        "client": {
+          "id": 5370081,
+          "name": "Schneider Electric",
+          "image": {
+            "url": "",
+            "color": null
+          },
+          "createdAt": "2025-04-07T06:33:31.000000Z",
+          "updatedAt": "2025-07-17T10:21:42.000000Z"
+        }
+      },
+      "owner": {
+        "id": 1979614,
+        "email": "p.suchali@ema-partners.com",
+        "firstName": "Suchali",
+        "lastName": "Pal",
+        "fullName": "Suchali Pal",
+        "phone": null,
+        "location": null,
+        "profilePicture": null,
+        "relationships": {
+          "officeGroups": [],
+          "regions": []
+        }
+      },
+      "industries": [],
+      "portal": null,
+      "createdAt": "2025-04-07T06:33:31.000000Z",
+      "updatedAt": "2025-04-07T10:07:20.000000Z",
+      "manager": {
+        "status": {
+          "id": 117608,
+          "text": "On Target",
+          "color": "#80a06e",
+          "default": true,
+          "order": 0,
+          "type": "project",
+          "hidden": false,
+          "nalText": null,
+          "canDelete": true,
+          "taggedCount": 0,
+          "hashId": "qxp3G",
+          "addedAt": "2025-04-07T06:33:31.000000Z"
+        }
+      },
+      "meta": {
+        "watching": false,
+        "following": false,
+        "pinned": false,
+        "archived": false,
+        "portalCreatedAt": null,
+        "candidateStats": {
+          "pipelineTags": {
+            "order": [
+              {
+                "id": 117595,
+                "count": 2,
+                "color": "#FFF176",
+                "text": "Identified",
+                "order": 0,
+                "hidden": false
+              }
+            ],
+            "recent": [
+              {
+                "id": 117595,
+                "count": 2,
+                "color": "#FFF176",
+                "text": "Identified",
+                "order": 0,
+                "hidden": false
+              }
+            ]
+          },
+          "visibleCount": 2,
+          "unfiltered_visible_count": 2
+        },
+        "bucketStats": {
+          "tags": [
+            {
+              "id": 117626,
+              "count": 2,
+              "color": null,
+              "text": "On Target",
+              "order": 0
+            }
+          ],
+          "onTarget": 2,
+          "overdue": 0
+        }
+      },
+      "found_in": "/v3/projects"
+    }
+  ],
+  "people": [],
+  "lists": [],
+  "relationships": [],
+  "candidates": [
+    {
+      "id": 19319646,
+      "dataType": "person",
+      "name": "Sunil Kumar BR",
+      "label": "person",
+      "honorific": null,
+      "firstName": "Sunil Kumar",
+      "lastName": "BR",
+      "fullName": "Sunil Kumar BR",
+      "summary": null,
+      "profilePicture": "https://cloud.notactivelylooking.com/production/images/d9dd441e-6184-4462-a085-54d16043e5cb",
+      "emails": [
+        {
+          "id": 13372463,
+          "address": "sunilkumarbr@rediffmail.com",
+          "label": "private",
+          "isDefault": true,
+          "createdAt": "2025-04-07T10:11:46.000000Z",
+          "updatedAt": "2025-04-07T10:11:46.000000Z"
+        },
+        {
+          "id": 13372414,
+          "address": "sunnybr9581@gmail.com",
+          "label": "private",
+          "isDefault": false,
+          "createdAt": "2025-04-07T10:07:18.000000Z",
+          "updatedAt": "2025-04-07T10:11:46.000000Z"
+        }
+      ],
+      "phones": [
+        {
+          "id": 16686934,
+          "number": "+91 98809 88662",
+          "label": "mobile",
+          "isDefault": true,
+          "createdAt": "2025-04-07T10:07:18.000000Z",
+          "updatedAt": "2025-04-07T10:07:18.000000Z"
+        }
+      ],
+      "links": [
+        {
+          "id": 15098031,
+          "url": "https://www.linkedin.com/in/sunil-kumar-br-cips-65a41b51/",
+          "title": "LinkedIn",
+          "type": "linkedin",
+          "createdAt": "2025-04-07T10:07:18.000000Z",
+          "updatedAt": "2025-04-07T10:07:18.000000Z"
+        },
+        {
+          "id": 15098127,
+          "url": "https://www.linkedin.com/in/sunil-kumar-br-six-sigma-green-belt-cips-65a41b51/",
+          "title": "linkedin",
+          "type": "linkedin",
+          "createdAt": "2025-04-07T10:11:46.000000Z",
+          "updatedAt": "2025-04-07T10:11:46.000000Z"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 19401390,
+          "full": "Karnataka\r\nIndia",
+          "line1": null,
+          "line2": null,
+          "line3": null,
+          "line4": null,
+          "city": "",
+          "state": "Karnataka",
+          "country": "India",
+          "postcode": null,
+          "label": "private",
+          "isDefault": true,
+          "createdAt": "2025-04-07T10:11:46.000000Z",
+          "updatedAt": "2025-04-07T10:11:46.000000Z"
+        },
+        {
+          "id": 19401275,
+          "full": "Bangalore\r\nKARNATAKA\r\nIN\r\n560061",
+          "line1": null,
+          "line2": null,
+          "line3": null,
+          "line4": null,
+          "city": "Bangalore",
+          "state": "KARNATAKA",
+          "country": "IN",
+          "postcode": "560061",
+          "label": "private",
+          "isDefault": false,
+          "createdAt": "2025-04-07T10:07:18.000000Z",
+          "updatedAt": "2025-04-07T10:07:18.000000Z"
+        }
+      ],
+      "owner": {
+        "id": 1979614,
+        "email": "p.suchali@ema-partners.com",
+        "firstName": "Suchali",
+        "lastName": "Pal",
+        "fullName": "Suchali Pal",
+        "phone": null,
+        "location": null,
+        "profilePicture": null,
+        "relationships": {
+          "officeGroups": [],
+          "regions": []
+        }
+      },
+      "createdAt": "2025-04-07T10:07:16.000000Z",
+      "updatedAt": "2025-04-07T10:11:47.000000Z",
+      "profile": {
+        "positions": [
+          {
+            "id": 75199312,
+            "title": "Procurement Director, Global Commodity Management at Alstom",
+            "career": {
+              "id": 1695800,
+              "parent_id": 1695868,
+              "name": "Director",
+              "value": "Director"
+            },
+            "company": {
+              "name": "Alstom",
+              "nameSearchable": "alstom"
+            },
+            "location": {
+              "id": 20593,
+              "name": "Karnataka, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 6,
+                "name": "Enterprise"
+              }
+            ],
+            "startDate": "2017-10-01",
+            "endDate": "9999-12-31",
+            "skills": [
+              "Market Analysis",
+              "Key Performance Indicators",
+              "Global Sourcing",
+              "Materials Management",
+              "Strategic Sourcing",
+              "Six Sigma",
+              "Purchasing",
+              "Kaizen",
+              "Sourcing",
+              "Cross-functional Team Leadership",
+              "ERP",
+              "PPAP",
+              "FMEA",
+              "Commodity Risk Management",
+              "Financial Risk Management",
+              "Engineering"
+            ],
+            "achievements": [],
+            "summary": "Global Procurement Strategy & Deployment, Procurement governance, Ethics & Compliance, Global Synergy for cost savings,  Digitalization Initiatives, People Management, Supplier Relationship, Supplier Risk Management, SLA Contract Negotiations, Cash Enhancement, Crisis Management, Sustainable Sourcing, Co2 reduction initiatives.\nManaging directly, team of 5 Global Commodity Managers, Indirectly 35 Regional Buyers in 7 Global Regions & accountable for the productivity of sourcing team in accordance to the company targets.\nLeading & Managing annual spend of 400 Mill Euro/Year with Delegation of Authority (DOA) for Business Award approval upto 5ME.\nGlobal Commodity Management of Rail Trackside Infra, Signaling, Depot Equipment’s, Conductor Rails, Guide & Switch Beams and Charging Station Infrastructure for Fast Charging of Trains as well as electric Busses etc. in line with Alstom policies.\nExperienced in Sourcing of Power Supply & Distribution equipment High, Medium & Low Voltage AC/DC equipment’s incl. Transformers, Sub Stations, UPS, Cables on Turnkey System Integration requirements. \nContract Negotiations with the suppliers including the Global Terms & Conditions, Specific Project Terms & Conditions, Frame Agreements, Global Partnership Agreement with Key partner suppliers.\nWorking on sourcing of equipment’s for Monorail, APMs, LRTs & Metro Trains for all the Global requirements.\nWorked on supply base identification Globally & majorly LLCC/BCC to supports projects globally with Best TCO Sourcing Approach.\nPlayed a key role in winning the several major Tenders incl. Tren Maya, Cluj Metro, Toulouse Metro, Cairo Monorail, Bangkok Monorail, BPLRT, Frankfurt APM, Los Angeles Airport Ext, Phoenix Airport Ext. etc.\nKey support to bidding of all tenders thru cost reduction initiatives like Volume Bundling Synergy, Standardization, Re-Use of parts, Innovation  & VA/VE Ideas generation thru Workshops with key suppliers.",
+            "positionType": "permanent",
+            "primary": true,
+            "tense": true,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:11:46.000000Z"
+          },
+          {
+            "id": 75199313,
+            "title": "Senior Commodity Manager, Regional Strategic Sourcing & Localization",
+            "career": {
+              "id": 1695867,
+              "parent_id": 1695868,
+              "name": "Manager",
+              "value": "Manager"
+            },
+            "company": {
+              "name": "Alstom",
+              "nameSearchable": "alstom"
+            },
+            "location": {
+              "id": 93,
+              "name": "Bangalore, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 6,
+                "name": "Enterprise"
+              }
+            ],
+            "startDate": "2014-05-01",
+            "endDate": "2017-09-01",
+            "skills": [],
+            "achievements": [],
+            "summary": "• Strategic Purchasing of Car Body Shell, Raw Material & Parts including Carbon Steel, Stainless Steel, and Aluminum Fabrication, Sheet Metal Parts & Machined components etc. in line with Alstom group policies.\n• Handling a diversified portfolio of Global Sourcing including Metro, Urban, Regional & High Speed customized Trains etc.\nFinalizing & Managing the Long term contracts, Supplier Relationships, Frame Agreements, Licence Agreements, Transfer of Technology (TOT) including the complicated parts Bogie Frames & Car Body Shells.\n• Managing a team of Sourcing Specialists & accountable for the productivity of sourcing team in accordance to the company targets.\n• Leading One Alstom Sourcing Initiative to leverage total Alstom buy across P&Ls to grow volumes & deflation from India Region \n• New Source development & Alternate Source development for Risk Management & Cost competition.\n• Interacting with Global & Regional sourcing teams of Alstom on Sourcing & Pricing decisions.\n• Make or Buy Decision making including RFQ's, Cost Activity Planning & Cost Negotiations, Vendor Development.\n• Organised & Managed the First Alstom Transport Supplier conference held in Oct’2014.",
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:11:46.000000Z"
+          },
+          {
+            "id": 75199314,
+            "title": "Lead Commodity Leader /Commodity Manager - Global & Regional Strategic Sourcing",
+            "career": {
+              "id": 1695867,
+              "parent_id": 1695868,
+              "name": "Manager",
+              "value": "Manager"
+            },
+            "company": {
+              "name": "GE",
+              "nameSearchable": "ge"
+            },
+            "location": {
+              "id": 93,
+              "name": "Bangalore, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696471,
+              "parent_id": null,
+              "name": "Industrial",
+              "value": "Industrial"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 6,
+                "name": "Enterprise"
+              }
+            ],
+            "startDate": "2010-05-01",
+            "endDate": "2014-04-01",
+            "skills": [],
+            "achievements": [],
+            "summary": "• Strategic Purchasing of Raw Material & Parts including Forging, Fabrication & Machined components etc.\n• Handling a diversified portfolio of Global Sourcing including Wind Energy, Steam Turbines, Gas Turbines, Gas Engines, Aero Energy Products, Energy Services etc.\n• Effective use of LEAN / SIX Sigma tools to achieve cost reduction.\n• Interacting with Global & Regional sourcing teams on Sourcing & Pricing decisions.\n• New Source development & Alternate Source development for Risk Management & Cost competition.\n• Make or Buy Decision making including RFQ's, Cost Activity Planning & Cost Negotiations, Vendor Development. \n• Ensure on time delivery readiness of material. Management of inventory at Min-Max levels.\n• Updated about Tax Tariff’s Like EPCG, Advance License, Duty Draw Backs in accordance with EOU Norms & General Domestic Norms.\n• Working on standardization of Systems for smooth flow of activities.\n• Oct 2010 - GE Energy Global Recognition Award for Growing Wind Business thru localization in India.\n• Aug 2011 - Received Bronze Award for exhibiting expertise in closing key negotiations with Wind Tower Mechanical Internals Suppliers delivering $8K savings per tower which enabled 100% Localization of Internals generating annual savings of $1.2Mill.\n• Nov 2011 – GE Energy Team Award for achieving the Double Digit Cost Reduction in Wind Turbine sourcing & improving the cost margins to win Business in India.\n• Nov 2011 – Green Belt Certification in Six Sigma / Lean.",
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:11:46.000000Z"
+          },
+          {
+            "id": 75199315,
+            "title": "Assistant Manager, Purchase",
+            "career": {
+              "id": 1695867,
+              "parent_id": 1695868,
+              "name": "Manager",
+              "value": "Manager"
+            },
+            "company": {
+              "name": "Renault Nissan Technology & Business Centre India",
+              "nameSearchable": "renault nissan technology business centre india"
+            },
+            "location": {
+              "id": 107,
+              "name": "Chennai, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 6,
+                "name": "Enterprise"
+              }
+            ],
+            "startDate": "2008-03-01",
+            "endDate": "2010-01-01",
+            "skills": [],
+            "achievements": [],
+            "summary": "• Centralized Strategic Purchasing of Steel & plastics RM for Renault, Nissan (Local & Global Sourcing). \n• Interacting with Global & Regional sourcing teams of Renault & Nissan on Sourcing & Pricing decisions.\n• Steel Coil Centre Sourcing & Finalization.\n• Maximize Localization of Steel & Plastics.\n• Part of Cross functional PPAP, APQP Team, FMEA, Target Cost Fixing.\n • SVP Cost Finalization for New projects. \n• VA/VE Activity Management, Supplier Window for SE Activities. \n• Yield Improvement Activities through Offal Utilization, Inventory Management. \n• Updated about Tax Tariff's & Levies.\n• Nominated as leader for benchmarking Best Purchasing practices of Competition to be implemented for Renault Nissan Purchasing Way.             \n\nAchievements: \n• Development of strong vendor base for Nissan Small Car Project (X02A /X02B). \n• Part of Upcoming Renault Car Project Sourcing (B90 & L90). \n• Steel Source finalization & Coil Centre Sourcing. \n• SVP pricing finalization & Kaizen activity on Cost Reduction. \n• RFQ's to various suppliers on feasibility study of upcoming projects & SE activities supplier window.",
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:11:46.000000Z"
+          },
+          {
+            "id": 75199316,
+            "title": "Buyer / Management Staff, Purchase",
+            "career": {
+              "id": 1696163,
+              "parent_id": 1696337,
+              "name": "Buyer",
+              "value": "Buyer"
+            },
+            "company": {
+              "name": "Toyota Kirloskar Motor",
+              "nameSearchable": "toyota kirloskar motor"
+            },
+            "location": {
+              "id": 93,
+              "name": "Bangalore, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 6,
+                "name": "Enterprise"
+              }
+            ],
+            "startDate": "2004-01-01",
+            "endDate": "2007-12-01",
+            "skills": [],
+            "achievements": [],
+            "summary": "• Centralized Sourcing of Steel.\n• Steel Coil Centre Sourcing & Finalization.\n• New Project Activity Study & Management.\n• Make or Buy Decision making including RFQ's, Cost Activity Planning & Cost Negotiations, Vendor Development. \n• Part of SPTT & SKTT, Part of HVPT Evaluation Team, Target Cost Fixing, Handling ERP Module. \n• SVP Cost Finalization for New projects, Preparing Purchase Orders, VA/VE Activities, Supplier Window for SE Activities. \n• Yield Improvement Activities through Offal Utilization. Sourcing Decision for Import parts & Tooling. \n• Inventory Management (JIT, Jumbiki & Genchi Genbetsu) etc, \n• Updated about Tax Tariff's & Levies.",
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:11:46.000000Z"
+          },
+          {
+            "id": 75199317,
+            "title": "Engineering Trainee",
+            "career": null,
+            "company": {
+              "name": "Ingersoll Rand EMEIA Compression Systems",
+              "nameSearchable": "ingersoll rand emeia compression systems"
+            },
+            "location": {
+              "id": 93,
+              "name": "Bangalore, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696704,
+              "parent_id": 1696471,
+              "name": "Machinery",
+              "value": "Machinery"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 6,
+                "name": "Enterprise"
+              }
+            ],
+            "startDate": "2002-08-01",
+            "endDate": "2003-07-01",
+            "skills": [],
+            "achievements": [],
+            "summary": "• Handling Purchase activities, Vendor development, Kanban system management. \n• Handling MRP Module, Sourcing Decision Making, Project handling, Costing & Price • Negotiations, Cost reduction Planning. \n• Supplier Visits for Supplier Self-Certification.\n• Successful completion of Project DD-80 Compactor.\n• Part of Demand Flow Technology Implementation Team. \n• Identification of problem in Pump failures in the machines due to priming.",
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:11:46.000000Z"
+          }
+        ]
+      },
+      "project_id": "640759",
+      "found_in": "/v3/projects/640759/candidates"
+    },
+    {
+      "id": 19318891,
+      "dataType": "person",
+      "name": "Arun Nair",
+      "label": "person",
+      "honorific": null,
+      "firstName": "Arun",
+      "lastName": "Nair",
+      "fullName": "Arun Nair",
+      "summary": null,
+      "profilePicture": "https://cloud.notactivelylooking.com/production/images/ffc57142-7fbb-4e0d-8477-903ade38f7fb",
+      "emails": [
+        {
+          "id": 13371665,
+          "address": "arunn.1978@gmail.com",
+          "label": "private",
+          "isDefault": true,
+          "createdAt": "2025-04-07T09:14:14.000000Z",
+          "updatedAt": "2025-04-07T09:14:14.000000Z"
+        }
+      ],
+      "phones": [
+        {
+          "id": 16686562,
+          "number": "+91 976 444 6735",
+          "label": "mobile",
+          "isDefault": true,
+          "createdAt": "2025-04-07T09:14:14.000000Z",
+          "updatedAt": "2025-04-07T09:14:14.000000Z"
+        }
+      ],
+      "links": [
+        {
+          "id": 15096831,
+          "url": "http://www.linkedin.com/in/nair-arun/",
+          "title": "LinkedIn",
+          "type": "linkedin",
+          "createdAt": "2025-04-07T09:14:14.000000Z",
+          "updatedAt": "2025-04-07T09:14:14.000000Z"
+        }
+      ],
+      "addresses": [
+        {
+          "id": 19401410,
+          "full": "Pune\r\nMaharashtra\r\nIndia",
+          "line1": null,
+          "line2": null,
+          "line3": null,
+          "line4": null,
+          "city": "Pune",
+          "state": "Maharashtra",
+          "country": "India",
+          "postcode": null,
+          "label": "private",
+          "isDefault": true,
+          "createdAt": "2025-04-07T10:12:39.000000Z",
+          "updatedAt": "2025-04-07T10:12:39.000000Z"
+        },
+        {
+          "id": 19399974,
+          "full": "Pune\r\nMaharashtra\r\nIN",
+          "line1": null,
+          "line2": null,
+          "line3": null,
+          "line4": null,
+          "city": "Pune",
+          "state": "Maharashtra",
+          "country": "IN",
+          "postcode": null,
+          "label": "private",
+          "isDefault": false,
+          "createdAt": "2025-04-07T09:14:14.000000Z",
+          "updatedAt": "2025-04-07T09:14:14.000000Z"
+        }
+      ],
+      "owner": {
+        "id": 1979614,
+        "email": "p.suchali@ema-partners.com",
+        "firstName": "Suchali",
+        "lastName": "Pal",
+        "fullName": "Suchali Pal",
+        "phone": null,
+        "location": null,
+        "profilePicture": null,
+        "relationships": {
+          "officeGroups": [],
+          "regions": []
+        }
+      },
+      "createdAt": "2025-04-07T09:14:12.000000Z",
+      "updatedAt": "2025-04-07T10:12:41.000000Z",
+      "profile": {
+        "positions": [
+          {
+            "id": 75199409,
+            "title": "Director - Electrical & Electronics (Sourcing & SCM)",
+            "career": {
+              "id": 1695800,
+              "parent_id": 1695868,
+              "name": "Director",
+              "value": "Director"
+            },
+            "company": {
+              "name": "Ola Electric",
+              "nameSearchable": "ola electric"
+            },
+            "location": {
+              "id": 195,
+              "name": "Pune, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 5,
+                "name": "Large"
+              }
+            ],
+            "startDate": "2023-07-01",
+            "endDate": "9999-12-31",
+            "skills": [
+              "Capacity Building",
+              "Powertrain Part",
+              "Printed Circuit Board Manufacturing",
+              "PCB Assembly",
+              "Electromagnetic Interference (EMI)",
+              "Budgeting",
+              "Team Leadership",
+              "PPAP",
+              "Supplier Quality",
+              "Product Development",
+              "Vehicles",
+              "Quality Control",
+              "TS16949",
+              "APQP",
+              "Automotive",
+              "Kaizen",
+              "FMEA",
+              "Continuous Improvement",
+              "Manufacturing",
+              "ISO/TS 16949",
+              "Team Management",
+              "TQM",
+              "Quality Management",
+              "Automotive Engineering",
+              "ISO",
+              "Automobile",
+              "Failure Mode and Effects Analysis (FMEA)",
+              "Six Sigma",
+              "SPC",
+              "5S",
+              "Advanced Product Quality Planning (APQP)",
+              "Production Part Approval Process (PPAP)",
+              "Lean Manufacturing",
+              "Statistical Process Control (SPC)",
+              "Quality Assurance",
+              "Lean Six Sigma Black Belt",
+              "Negotiation",
+              "Program Management",
+              "Pricing Strategy",
+              "Pricing Analysis",
+              "Sourcing",
+              "Strategic Sourcing",
+              "Global Sourcing",
+              "Supplier Sourcing",
+              "Purchasing Negotiation",
+              "Supplier Negotiation",
+              "Strategic Negotiations",
+              "Vendor Negotiation",
+              "New Product Implementations",
+              "New Program Development"
+            ],
+            "achievements": [],
+            "summary": null,
+            "positionType": "permanent",
+            "primary": true,
+            "tense": true,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:12:39.000000Z"
+          },
+          {
+            "id": 75199410,
+            "title": "Director - Electronics (Sourcing & SCM)",
+            "career": {
+              "id": 1695800,
+              "parent_id": 1695868,
+              "name": "Director",
+              "value": "Director"
+            },
+            "company": {
+              "name": "Ola Electric",
+              "nameSearchable": "ola electric"
+            },
+            "location": {
+              "id": 195,
+              "name": "Pune, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 5,
+                "name": "Large"
+              }
+            ],
+            "startDate": "2022-09-01",
+            "endDate": "2023-06-01",
+            "skills": [],
+            "achievements": [],
+            "summary": null,
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:12:39.000000Z"
+          },
+          {
+            "id": 75199411,
+            "title": "AGM - Sourcing Lead (EE Module, Thermal, Restraints, Driver Assist System)",
+            "career": null,
+            "company": {
+              "name": "Fiat India Automobiles Private Limited (Tata-Fiat Jv)",
+              "nameSearchable": "fiat india automobiles private limited tata fiat j"
+            },
+            "location": {
+              "id": 195,
+              "name": "Pune, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 4,
+                "name": "Medium"
+              }
+            ],
+            "startDate": "2018-12-01",
+            "endDate": "2022-09-01",
+            "skills": [],
+            "achievements": [],
+            "summary": "Sourcing Lead for Electrical, Restraint & HVAC Commodity. Lead the sourcing for Jeep Compass Facelift and Jeep Meridian",
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:12:39.000000Z"
+          },
+          {
+            "id": 75199412,
+            "title": "Diviisional Manager - Lead Supplier Quality Engg (E&E Module, Restrainsts and , Thermal )",
+            "career": {
+              "id": 1695867,
+              "parent_id": 1695868,
+              "name": "Manager",
+              "value": "Manager"
+            },
+            "company": {
+              "name": "Fiat India Automobiles Private Limited (Tata-Fiat Jv)",
+              "nameSearchable": "fiat india automobiles private limited tata fiat j"
+            },
+            "location": {
+              "id": 195,
+              "name": "Pune, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 4,
+                "name": "Medium"
+              }
+            ],
+            "startDate": "2015-09-01",
+            "endDate": "2018-11-01",
+            "skills": [],
+            "achievements": [],
+            "summary": "Jeep Compass and 2.0 L Diesel Engine localised in India for India and Export Volumes",
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:12:39.000000Z"
+          },
+          {
+            "id": 75199413,
+            "title": "Senior Manager - Lead Supplier Quality Engineering (E&E)",
+            "career": {
+              "id": 1695867,
+              "parent_id": 1695868,
+              "name": "Manager",
+              "value": "Manager"
+            },
+            "company": {
+              "name": "Fiat India Automobiles Private Limited (Tata-Fiat Jv)",
+              "nameSearchable": "fiat india automobiles private limited tata fiat j"
+            },
+            "location": {
+              "id": 195,
+              "name": "Pune, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 4,
+                "name": "Medium"
+              }
+            ],
+            "startDate": "2012-07-01",
+            "endDate": "2015-08-01",
+            "skills": [],
+            "achievements": [],
+            "summary": "•\tSteered the development of Electrical parts for Facelift of Linea & Punto and Adventure\n•\tDiligently performed day to day monitoring of tooling / equipment / fixtures to evaluate project timeline and initiate ways to manage the critical path thereby minimizing execution time\n•\tDeftly executed the reverse engineering of Side Door Latch that led to savings worth Rs.2000/car; facilitated localization of Base Radio in Facelift resulting in approx. Rs.4000/car.\n•\tWon Third Prize in CEO Innovation Awards 2014 based on customization of Vaccum Pump resulting in tooling cost saving of 80 lakhs and localization benefit of 300/engine.",
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:12:39.000000Z"
+          },
+          {
+            "id": 75199414,
+            "title": "Senior Manager - Lead Supplier Quality Engg (E&E and Powertrain Commodity)",
+            "career": {
+              "id": 1695867,
+              "parent_id": 1695868,
+              "name": "Manager",
+              "value": "Manager"
+            },
+            "company": {
+              "name": "Fiat India Automobiles Private Limited (Tata-Fiat Jv)",
+              "nameSearchable": "fiat india automobiles private limited tata fiat j"
+            },
+            "location": {
+              "id": 195,
+              "name": "Pune, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 4,
+                "name": "Medium"
+              }
+            ],
+            "startDate": "2011-07-01",
+            "endDate": "2012-06-01",
+            "skills": [],
+            "achievements": [],
+            "summary": "Lead the 1.3 Small Diesel Engine Ramp up to support Suzuki volumes",
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:12:39.000000Z"
+          },
+          {
+            "id": 75199415,
+            "title": "Manager - Lead Supplier Quality Engineering (E&E)",
+            "career": {
+              "id": 1695867,
+              "parent_id": 1695868,
+              "name": "Manager",
+              "value": "Manager"
+            },
+            "company": {
+              "name": "Fiat India Automobiles Private Limited (Tata-Fiat Jv)",
+              "nameSearchable": "fiat india automobiles private limited tata fiat j"
+            },
+            "location": {
+              "id": 195,
+              "name": "Pune, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 4,
+                "name": "Medium"
+              }
+            ],
+            "startDate": "2010-07-01",
+            "endDate": "2012-06-01",
+            "skills": [],
+            "achievements": [],
+            "summary": "Lead the localisation of all the critical Electrical and Electronics parts for Linea And Punto",
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:12:39.000000Z"
+          },
+          {
+            "id": 75199416,
+            "title": "Deputy Manager - Lead Supplier Quality Engg (Chassis Commodity)",
+            "career": {
+              "id": 1695867,
+              "parent_id": 1695868,
+              "name": "Manager",
+              "value": "Manager"
+            },
+            "company": {
+              "name": "Fiat India Automobiles Private Limited (Tata-Fiat Jv)",
+              "nameSearchable": "fiat india automobiles private limited tata fiat j"
+            },
+            "location": {
+              "id": 195,
+              "name": "Pune, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 4,
+                "name": "Medium"
+              }
+            ],
+            "startDate": "2007-12-01",
+            "endDate": "2010-06-01",
+            "skills": [],
+            "achievements": [],
+            "summary": "Lead the development of Brakes, Suspension and Steering System for Fiat Linea and Punto",
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:12:39.000000Z"
+          },
+          {
+            "id": 75199417,
+            "title": "Chassis Lead - Parts Quality",
+            "career": null,
+            "company": {
+              "name": "Honda Cars India Ltd",
+              "nameSearchable": "honda cars india ltd"
+            },
+            "location": null,
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 6,
+                "name": "Enterprise"
+              }
+            ],
+            "startDate": "2006-07-01",
+            "endDate": "2007-12-01",
+            "skills": [],
+            "achievements": [],
+            "summary": null,
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:12:39.000000Z"
+          },
+          {
+            "id": 75199418,
+            "title": "Supplier Quality - Vehicle Plant",
+            "career": null,
+            "company": {
+              "name": "John Deere India Pvt. Ltd. (JDTCI)",
+              "nameSearchable": "john deere india pvt ltd jdtci"
+            },
+            "location": null,
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1697001,
+              "parent_id": 1696606,
+              "name": "Farming",
+              "value": "Farming"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 6,
+                "name": "Enterprise"
+              }
+            ],
+            "startDate": "2005-07-01",
+            "endDate": "2006-07-01",
+            "skills": [],
+            "achievements": [],
+            "summary": null,
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:12:39.000000Z"
+          },
+          {
+            "id": 75199419,
+            "title": "Senior Executive",
+            "career": null,
+            "company": {
+              "name": "Motherson Sumi Wiring India Ltd.",
+              "nameSearchable": "motherson sumi wiring india ltd"
+            },
+            "location": {
+              "id": 2801,
+              "name": "Noida, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696992,
+              "parent_id": 1696468,
+              "name": "Consumer Goods",
+              "value": "Consumer Goods"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 6,
+                "name": "Enterprise"
+              }
+            ],
+            "startDate": "2003-09-01",
+            "endDate": "2005-07-01",
+            "skills": [],
+            "achievements": [],
+            "summary": null,
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:12:39.000000Z"
+          },
+          {
+            "id": 75199420,
+            "title": "Section Executive Enginner",
+            "career": null,
+            "company": {
+              "name": "Sona Koyo Steering Systems Ltd",
+              "nameSearchable": "sona koyo steering systems ltd"
+            },
+            "location": {
+              "id": 20599,
+              "name": "Haryana, IN"
+            },
+            "teamSize": null,
+            "teamSizeId": null,
+            "industry": {
+              "id": 1696623,
+              "parent_id": 1696471,
+              "name": "Automotive",
+              "value": "Automotive"
+            },
+            "department": null,
+            "companyTypes": [
+              {
+                "id": 6,
+                "name": "Enterprise"
+              }
+            ],
+            "startDate": "2001-09-01",
+            "endDate": "2003-08-01",
+            "skills": [],
+            "achievements": [],
+            "summary": null,
+            "positionType": "permanent",
+            "primary": false,
+            "tense": false,
+            "startMonthUnknown": false,
+            "endMonthUnknown": false,
+            "updatedAt": "2025-04-07T10:12:39.000000Z"
+          }
+        ]
+      },
+      "project_id": "640759",
+      "found_in": "/v3/projects/640759/candidates"
+    }
+  ],
+  "invoices": [],
+  "notes": [],
+  "tasks": [],
+  "meetings": [],
+  "summary": {
+    "total_companies": 1,
+    "total_projects": 1,
+    "total_people": 0,
+    "total_lists": 0,
+    "total_relationships": 0,
+    "total_candidates": 2,
+    "total_invoices": 0,
+    "total_notes": 0,
+    "total_tasks": 0,
+    "total_meetings": 0,
+    "total_records": 4
+  }
+}
